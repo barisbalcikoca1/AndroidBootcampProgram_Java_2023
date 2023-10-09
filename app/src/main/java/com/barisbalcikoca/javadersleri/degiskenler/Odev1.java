@@ -49,14 +49,14 @@ public class Odev1 {
         String faturaTarihi = "8.10.2023";
 
 
-        System.out.println("İlçe : " + ilce);
-        System.out.println("Kıta : " + kita);
-        System.out.println("Faks No : " + faks);
-        System.out.println("Posta Kodu : " + postaKodu);
-        System.out.println("İnstagram Adresi : " + instaAdresi);
-        System.out.println("Çalıştığı Bölüm : " + calistiginBolum);
-        System.out.println("ÜrÜn Miktari : " + urunMiktarı);
-        System.out.println("Doğum Tarihi : " + dogumTarihi);
+        System.out.println("İlçe                : " + ilce);
+        System.out.println("Kıta                : " + kita);
+        System.out.println("Faks No             : " + faks);
+        System.out.println("Posta Kodu          : " + postaKodu);
+        System.out.println("İnstagram Adresi    : " + instaAdresi);
+        System.out.println("Çalıştığı Bölüm     : " + calistiginBolum);
+        System.out.println("ÜrÜn Miktari        : " + urunMiktarı);
+        System.out.println("Doğum Tarihi        : " + dogumTarihi);
 
     }
 }
