@@ -30,3 +30,6 @@ public class Odev2Main {
 
     }
 }
+
+
+//Static kavramı : Class ismi ile değişkenlere ve metotlara erişmek.
