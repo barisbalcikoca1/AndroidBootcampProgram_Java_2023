@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Odev3</string>
+    <string name="computerEngineer">Bilgisayar Mühendisi</string>
+    <string name="mobileApplicationDeveloper">Mobil Uygulama Geliştiricisi</string>
+    <string name="aboutMe">Hakkımda</string>
+    <string name="aboutMeText">Hayatımı Mobil Programlama, Mobil Oyun Programlama ve Yapay Zeka alanlarında geliştirmek istediğimikeşfetmemle birlikte okul eğitimlerimde seçmeli derslerimi bu alanları seçerek ilk adımımı attım. Araştırmakve geliştirmek için gösterdiğim çabamın karşısında görmüş olduğum somut sonuçlar beni daha da ileriyegötürecek adımlar atmama yardımcı oldu. Gelişim göstermek istediğim alanlarda araştırma yaparak, eğitimalarak ve en önemlisi bir proje içerisinde bulunup onu geliştirerek vaktimin büyük bir kısmını harcıyorum.</string>
+    <string name="experience">Experience</string>
+    <string name="experienceText">1 - Lider Teknoloji Geliştirme Müh.Taah.San. ve Tic.Ltd.Şti (LTG)\n\nStajyer \n\nLTG Şirketinde 25 iş günü AR‑GE kısmında staj yapıldı. Visual Studio Community 2019 yazılım geliştirmeortamında C++ dilinde MFC kütüphanesi kullanarak bir projenin giriş-form ekranını geliştirildi.\n\n2 - Eskişehir Büyükşehir Belediyesi - Bilgi İşlem Daire Başkanlığı - Yazılım Geliştirme\n\nStajyer\n\nEskişehir ilinin otobüs seferlerinin ve saatlerinin gösterildiği demo mobil uygulama geliştirildi. Buuygulamanın yetkilendirme sistemi için ayrı bir mobil uygulama daha geliştirildi. Her iki uygulamanınveritabanı MySQL, ara birimi PHP ve mobil kısmı ise JAVA ile geliştirildi.</string>
+    <string name="education">Eğitim</string>
+    <string name="educationText">Düzce Üniversitesi        Bilgisayar Mühendisliği bölümü mezunuyum.\n\nGNO 3,33\n\n2019\nDüzce Üniversitesi        İsteğe bağlı İngilizce hazırlık bölümünü B1 seviyesinde başarı ile tamamladım.</string>
+    <string name="project">Proje</string>
+    <string name="projectText">Derin Öğrenme Temelli Mobil Yüz İfadesi Tespit Uygulaması\n\nLisans tez ödevi olarak Google Colaboratory de FER2013 veri seti ve Öğrenme Aktarımı (TL) kullanılarakeğitim yapıldı. Yapılan eğitim TensorFlow Lite haline getirilerek JAVA dilinde yazılmış Mobil Uygulamadakullanıldı. Kullanıcının galerisinde bulunan tüm fotoğraflardan yüz olanların duygu analizi yapılaraksınıflandırıldı. Bu uygulama sayesinde kullanıcılar hangi duygu durumlarına ait fotoğraflarını görüntülemekistediklerinde kolaylıkla görebilecek hale geldi. Veri tabanı olarak SQLite ve Firebase kullanıldı.\n\nÇocuklar İçin Mobil İngilizce Geliştirme Uygulaması\n\nGiriş seviyesinde hayvanları ve sayıları öğreten, aynı zamanda quiz aşamasının olduğu quiz sonuçlarınınskor tablosunda tutularak çocukların İngilizceyi öğrenmelerindeki isteklerinin artırıldığı bir mobil uygulamageliştirildi. Bu uygulama sayesinde başlangıç seviyede İngilizce öğrenmeleri ve çeviri yapmalarıkolaylaştırıldı. Veri tabanı olarak Firebase kullanıldı.\n\nKatmanlı Mimari ile Hastane Otomasyonu\n\nBir hastanede bulunan işlemlerin C# dilinde katmanlı mimari ile .NET Framework ve MSSQL kullanılarakhazırlanan bir otomasyon projesi geliştirildi. Bu proje sayesine hastanede bulunan hasta kayıt, rapor ve birçok işlem masaüstü program haline getirildi.</string>
+    <string name="certificate">Sertifika</string>
+    <string name="certificateText">TRAI x DBB Yapay Zeka Bootcamp 2021 – 2021\n\nBahçeşehir, Düzce ve Başkent Üniversitelerinin IEEE Kulüpleri, Google DSC Düzce Kulübü ve TürkiyeYapay Zeka İnisiyatif işbirliği ile 30 saat süren yapay zeka kampında katılım sertifikası almaya hakkazandım. Bu kamp sayesinde Otomativde Yapay Zeka, Savunma Sanayide Yapay Zeka, SesliAsistanlarda Yapay Zeka, Hukukta Yapay Zeka ve Kalite Kontrolde Yapay Zeka alanlarında katılımsertifikası almaya hak kazandım.</string>
+    <string name="language">Dil</string>
+    <string name="languageText">Türkçe : Ana Dil\nİngilizce : Orta Seviye</string>
+    <string name="skills">Beceriler</string>
+    <string name="skillsText">•Android Studio    •JAVA     •C#     •Python   •SQL</string>
+    <string name="contact">İletişim</string>
+</resources>
