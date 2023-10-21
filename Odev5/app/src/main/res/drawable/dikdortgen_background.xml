@@ -1,0 +1,5 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#F44336" /> <!-- Arkaplan rengi -->
+    <corners android:radius="0dp" /> <!-- Köşe yarıçapı, 0dp olması dikdörtgen yapar -->
+
+</shape>
